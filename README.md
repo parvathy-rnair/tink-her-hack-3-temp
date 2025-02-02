@@ -1,34 +1,39 @@
-# [Project Name] 🎯
+# [EDMIND] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [APT APT!!]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [PARVATHY R NAIR] - [MEC]
+- Member 2: [TINA ANNA JOSHI] - [MEC]
+- Member 3: [ATHIRA R] - [MEC]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/Tinaannajoshi/APT-APT-
 
 ### Project Description
-[2-3 lines about what your project does]
+[Edmind is a personalized learning and mental health support chatbot designed to help students manage academic stress and enhance their well-being. It offers tailored guidance, mental health resources, and academic support through intelligent conversations.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Personalized Learning Support]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[1. Backend Development: We're using Python to build Edmind's backend, handling data processing, API integration, and chatbot logic to ensure smooth interactions and secure data management.
+
+
+2. Frontend Development: The user interface is designed with HTML, CSS, and JavaScript, providing an intuitive, responsive experience for students to easily access personalized learning resources and mental health support.
+
+
+3. Chatbot Integration: Edmind’s chatbot is powered by Rasa for natural language understanding and integrated with GPT to deliver personalized responses, addressing academic stress and mental health concerns effectively.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,JS,PYTHON]
+
+- [VS CODE]
 
 For Hardware:
 - [List main components]
@@ -48,13 +53,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows*![Screenshot 2025-02-02 082601](https://github.com/user-attachments/assets/1891a4f1-2efe-4afe-96e6-ba5f12ea925f)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows*![Screenshot 2025-02-02 082617](https://github.com/user-attachments/assets/a72a3a89-e5ab-4884-9970-837844924505)
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows*![Screenshot 2025-02-02 082642](https://github.com/user-attachments/assets/7a90b9da-9fa0-4cd4-9298-62495a34661b)
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
